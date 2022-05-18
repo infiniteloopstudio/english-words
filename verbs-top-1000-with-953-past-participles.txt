@@ -172,7 +172,6 @@ beared
 beat
 beaten
 become
-become
 beg
 begged
 begin
@@ -188,9 +187,7 @@ benefit
 benefited
 bent
 bet
-bet
 beware
-bid
 bid
 bind
 bite
@@ -228,7 +225,6 @@ bred
 breed
 bring
 broadcast
-broadcast
 broken
 brought
 brush
@@ -238,7 +234,6 @@ built
 buried
 burn
 burned
-burst
 burst
 bury
 buy
@@ -261,7 +256,6 @@ carried
 carry
 cash
 cashed
-cast
 cast
 catch
 cater
@@ -322,7 +316,6 @@ combat
 combatted
 combine
 combined
-come
 come
 comfort
 comforted
@@ -443,7 +436,6 @@ corrected
 correspond
 corresponded
 cost
-cost
 count
 counted
 counter
@@ -469,7 +461,6 @@ curb
 curbed
 cure
 cured
-cut
 cut
 damage
 damaged
@@ -815,7 +806,6 @@ fooled
 force
 forced
 forecast
-forecast
 forget
 forgive
 forgiven
@@ -911,7 +901,6 @@ highlighted
 hire
 hired
 hit
-hit
 hold
 holen
 honour
@@ -927,7 +916,6 @@ hunt
 hunted
 hurried
 hurry
-hurt
 hurt
 identified
 identify
@@ -1037,7 +1025,6 @@ killed
 kiss
 kissed
 knit
-knit
 knock
 knocked
 know
@@ -1065,7 +1052,6 @@ leave
 left
 lend
 lent
-let
 let
 let's
 level
@@ -1192,7 +1178,6 @@ of
 offer
 offered
 offset
-offset
 open
 opened
 operate
@@ -1208,7 +1193,6 @@ organised
 organize
 outline
 outlined
-overcome
 overcome
 overlook
 overlooked
@@ -1349,12 +1333,10 @@ pursued
 push
 pushed
 put
-put
 qualified
 qualify
 question
 questioned
-quit
 quit
 quote
 quoted
@@ -1369,7 +1351,6 @@ reach
 reached
 react
 reacted
-read
 read
 realise
 realised
@@ -1522,7 +1503,6 @@ revised
 revive
 revived
 rid
-rid
 ridden
 ride
 ring
@@ -1543,7 +1523,6 @@ ruin
 ruined
 rule
 ruled
-run
 run
 rush
 rushed
@@ -1591,7 +1570,6 @@ served
 service
 serviced
 set
-set
 settle
 settled
 shake
@@ -1601,7 +1579,6 @@ shape
 shaped
 share
 shared
-shed
 shed
 shift
 shifted
@@ -1618,7 +1595,6 @@ shout
 shouted
 show
 shown
-shut
 shut
 sign
 signal
@@ -1670,13 +1646,11 @@ spill
 spilled
 spin
 split
-split
 spoil
 spoiled
 spoken
 spot
 spotted
-spread
 spread
 spring
 sprung
@@ -1830,7 +1804,6 @@ thriven
 throw
 thrown
 thrust
-thrust
 tick
 ticked
 tie
@@ -1896,7 +1869,6 @@ updated
 upgrade
 upgraded
 upset
-upset
 urge
 urged
 use
@@ -1942,7 +1914,6 @@ waved
 weaken
 weakened
 wear
-wed
 wed
 weigh
 weighed
